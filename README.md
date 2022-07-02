@@ -15,3 +15,4 @@ https://tiffyalva.github.io/run-buddy-project/
 Made with ❤️ by Tiffany Alvarez
 
 ### ©️2019 Run Buddy, Inc
+ 
